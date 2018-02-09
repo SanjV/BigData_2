@@ -1,0 +1,11 @@
+To execute any command first, log into the HDFS machine
+and then we can execute the following commands for the 
+respective questions
+
+Q1)hadoop jar MFriends.jar input output1 
+
+Q2) hadoop jar MFriends.jar input output2
+
+Q3) hadoop jar Question3.jar yelp.data.Top10BusinessDetails Review.csv  Business.csv outputtop10intermediate outputtop10final
+
+Q4) hadoop jar Question4.jar yelp.data.PaloAltoBusiness Review.csv  Business.csv outputlast
